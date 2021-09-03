@@ -1,0 +1,55 @@
+body {
+    margin: 5px;
+    padding:10px;
+}
+h1 {
+font-family: 'Open Sans', sans-serif;
+font-weight: 700;
+font-size: 20px;
+text-align: left;
+padding-left: 15px;
+}
+p{
+font-family: 'Open Sans', sans-serif;
+font-weight: 400;
+font-size: 13px;
+text-align: left;
+padding-left: 15px;
+}
+
+.logoText{
+ height: 60px;
+ width: 200px;
+ margin-top: 40px;
+ margin-left: 60px;
+}
+
+#pagetitle{
+margin: top 200px;;
+}
+.div1{position: absolute;
+ margin-left: 500px;
+}
+
+input{
+  border: 0;
+  padding: 12px 20px;
+  margin-left: 60px ;
+  background-color: #00C698;
+  box-sizing: border-box;
+  color: white;
+  font-weight: 600;
+  size: 16px;
+  transition: width 1.8s ease-in-out;
+}
+
+input:focus{
+    width: 60%;
+    border: 0;
+    outline: 0;
+}
+
+button{
+    margin-left: 60px ;
+
+}
